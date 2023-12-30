@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1703871074 source:f:\projects\c\compiler\project\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1703885738 source:f:\projects\c\compiler\project\project\lexical_analysis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1703883580 source:f:\projects\c\compiler\project\project\syntax_analysis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
